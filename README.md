@@ -37,3 +37,14 @@ python salon_main.py
 This code borrows heavily from
 stylegan2: https://github.com/rosinality/stylegan2-pytorch
 eg3d: https://github.com/NVlabs/eg3d
+
+
+## BibTeX
+```
+@inproceedings{Khwanmuang2023StyleGANSalon,
+    author = {Khwanmuang, Sasikarn and Phongthawee, Pakkapon and Sangkloy, Patsorn and Suwajanakorn, Supasorn},
+    title = {StyleGAN Salon: Multi-View Latent Optimization for Pose-Invariant Hairstyle Transfer},
+    booktitle = {IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year = {2023},
+  }
+```
